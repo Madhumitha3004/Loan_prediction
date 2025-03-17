@@ -74,7 +74,7 @@ The project follows these steps:
 5. Predictions & Conclusion:
    - Using the best-performing model to predict loan default risk
    - Analyzing the impact of key features on predictions
-   - Suggesting risk mitigation strategies based on the findings
+   
 
 ## Results
 
